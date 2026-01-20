@@ -1,5 +1,5 @@
 # Arquitetura-Clean-Code-base
-Um projeto base deve fornecer uma estrutura sólida e reutilizável que facilite o desenvolvimento de sistemas futuros.
+Um projeto base que fornecer uma estrutura sólida e reutilizável que facilite o desenvolvimento de sistemas futuros.
 
 # Estrutura do Projeto e Camada de Domínio
 
@@ -219,6 +219,8 @@ public class EstoqueDomainService : IEstoqueDomainService
 }
 
 ```
+
+codigos para continuar a estudar
 
 ### 1. `Entities/` (Entidade Base e uma Entidade de Negócio)
 
