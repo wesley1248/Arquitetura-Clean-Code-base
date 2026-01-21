@@ -1,5 +1,4 @@
 01-Estrutura-de-Pastas
-
 ## 📂 Estrutura de Pastas da Solução (Referência)
 
 ```text
@@ -34,7 +33,6 @@ MinhaSolucao.sln
 ```
 
 02-00-Domain
-
 ## Estrutura Detalhada de 02.Domain
 ```text
 │   ├── 02.Domain/ (O Cérebro - Não referencia ninguém)
@@ -273,7 +271,6 @@ namespace MinhaSolucao.Domain.Services
 ```
 
 02-01-Fluxo-de-Execucao
-
 🔄 Fluxo de Execução
 
 1. Configuração (Program.cs)
